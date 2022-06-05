@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/Lab3/login.jsp" value="file://$PROJECT_DIR$/web/Lab3" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/admin/orderList.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/contactUs.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/header.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/userInfo.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views" />
+      </map>
+    </option>
+  </component>
+</project>
